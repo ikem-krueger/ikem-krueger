@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm the friendly programmer from the neighborhood!
+
 <!--
 **ikem-krueger/ikem-krueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
