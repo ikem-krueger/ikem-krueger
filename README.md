@@ -2,11 +2,10 @@
 
 I'm just your friendly neighborhood programmer.
 
-- 🔭 I’m currently working on my [PomodoroWorkflow](https://github.com/ikem-krueger/pomodoro-workflow) App
+- 🔭 I’m currently working on my [Git History Viewer](https://github.com/ikem-krueger/git-history-viewer) App
 - 🌱 I’m currently learning:
-  -  user stories,
+  -  project management,
   -  design patterns,
-  -  Android+Java,
-  -  Javascript+Angular
+  -  Javascript+React
 - 💬 Ask me about: anything
 - ⚡ Fun fact: I'm dead serious.
