@@ -2,8 +2,6 @@
 
 I‘m still fairly new to programming. Doing it more seriously, for a little more then a year now.
 
-My knowledge is on intermediate level.
-
 I know some Javascript, Java, Bash, Python, Powershell, Swift.
 
 - 🔭 I’m currently working on: Lebenskalender App
