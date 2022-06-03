@@ -4,9 +4,9 @@ I‘m still fairly new to programming. Doing it more seriously, for a little mor
 
 My knowledge is on intermediate level.
 
-I know Javascript, Java, Bash, Python, Powershell, Swift. Sorted in ascending order to my knowledge.
+I know some Javascript, Java, Bash, Python, Powershell, Swift.
 
 - 🔭 I’m currently working on: Lebenskalender App
 - 🌱 I’m currently learning: React
-- 💬 Ask me about: Anything you like.
+- 💬 Ask me about: Anything?
 - ⚡ Fun fact: I'm good with dialects, when I'm in the mood.
