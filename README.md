@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I‘m still fairly new to programming. Doing it more seriously, for a little more then a year now.
+I‘m fairly new to programming. Doing it more seriously, for a little more then a year now.
 
 I know some Javascript, Java, Bash, Python, Powershell, Swift.
 
-- 🔭 I’m currently working on: [Calendar of life](https://ikem-krueger.github.io/calendar-of-life/) App
-- 🌱 I’m currently learning: React
-- 💬 Ask me about: Anything?
+- 🔭 I’m currently working on: [DockerInWSL](https://github.com/ikem-krueger/dockerinwsl)
+- 🌱 I’m currently learning: DDD
+- 💬 Ask me about: Advice
 - ⚡ Fun fact: I'm good with dialects, when I'm in the mood.
