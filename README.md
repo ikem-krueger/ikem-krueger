@@ -6,5 +6,5 @@ I know some Javascript, Java, Bash, Python, Powershell, Swift.
 
 - 🔭 I’m currently working on: [VLC standby](https://github.com/ikem-krueger/vlc-standby-after-playback)
 - 🌱 I’m currently learning: DDD
-- 💬 Ask me about: Advice
+- 💬 Ask me about: React
 - ⚡ Fun fact: I'm good with dialects, when I'm in the mood.
